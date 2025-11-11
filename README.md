@@ -13,10 +13,10 @@
 ```
 Lab11_Synchronizers/
 ├── screenshots/
-│ ├── task1_img.png # Semaphore — управление принтерами
-│ ├── task2_img.png # CountDownLatch — загрузка данных
-│ ├── task3.1_img.png # CyclicBarrier — матрица после этапа 1
-│ └── task3.2_img.png # CyclicBarrier — матрица после этапа 3
+│ ├── task1_img.png  
+│ ├── task2_img.png  
+│ ├── task3.1_img.png 
+│ └── task3.2_img.png  
 │
 ├── src/
 │ ├── task1/
